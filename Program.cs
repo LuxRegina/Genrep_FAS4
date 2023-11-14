@@ -45,7 +45,7 @@
                         Console.WriteLine("Choose one of 1, 2, 3, 4, 5!");
                     }
                 }
-                else if (runmode == "check if IsPalindrom")
+                else if (runmode == "Check if IsPalindrom")
                 {
                     Console.WriteLine("Write 'quit' to quit!");
                     Console.Write("string: ");
